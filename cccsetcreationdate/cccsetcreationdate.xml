@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="content">
+	<name>Set Creation Date</name>
+	<author>COOLCAT creations</author>
+	<creationDate>September 2023</creationDate>
+	<copyright>COOLCAT creations</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>mail@coolcat-creations.com</authorEmail>
+	<authorUrl>https://coolcat-creations.com</authorUrl>
+	<version>1.0.0b</version>
+	<description>This plugin sets the creation date of articles based on a custom field.</description>
+	<files>
+		<filename plugin="cccsetcreationdate">cccsetcreationdate.php</filename>
+	</files>
+</extension>
